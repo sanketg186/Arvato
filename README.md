@@ -18,8 +18,7 @@ The project uses the following libraries in addition to Anaconda with python ver
 - sklearn
 - xgboost
 ## Project Motivation <a name="motivation"></a>
-In this project, we will dive into the Arvato dataset for Germany. In order to understand the customer, we will follow CRISP-DM (Cross-Industry Standard Process of Data Mining).
-We will look at the 
+In this project, We will analyze demographics data for customers of a mail-order sales company in Germany, we will compare it against demographics information for the general population. We will use unsupervised learning techniques to perform customer segmentation, identifying the parts of the population that best describe the core customer base of the company. Then, we will apply what we have learned on another dataset with demographics information for targets of a marketing campaign for the company, and use a model to predict which individuals are most likely to convert into future customers for the company. The data that we will use has been provided by at Bertelsmann Arvato Analytics, and represents a real-life data science task.
 
 ## File Descriptions <a name="files"></a>
 This folder contains to jupyter notebooks.
