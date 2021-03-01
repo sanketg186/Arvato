@@ -1,4 +1,4 @@
-# Airbnb_Boston_ML
+# Aravato Customer Segmentation
 An end to end data visualization, customer segmentation and machine learning implementation on Arvato dataset
 
 ### Table of Contents
