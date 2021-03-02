@@ -35,6 +35,8 @@ This folder contains to jupyter notebooks.
         - Test Data
 
 ## Results <a name="results"></a>
-
+- The data was highly unstructured and a lot of data preprocessing has to be done before implementing any ML models.
+- We used only classical ML techniques and among these Adaboost, XGBoost, Gradient Boosting Machine and LGBM worked better than other techniques.
+- You can find the quantitative results in jupyter notebooks 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
 Must give credit to Arvato data.
